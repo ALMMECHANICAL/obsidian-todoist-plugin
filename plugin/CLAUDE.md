@@ -1,3 +1,10 @@
+---
+aliases: []
+tags: []
+date created: Friday, April 24th 2026, 8:40:05 am
+date modified: Thursday, May 21st 2026, 3:01:22 pm
+---
+
 # Plugin CLAUDE.md
 
 Last verified: 2026-03-07
